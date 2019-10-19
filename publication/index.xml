@@ -5,12 +5,28 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 23 Nov 2019 18:19:12 +0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Regression Models for Performance Ranking of Configurable Systems: A Comparative Study</title>
+      <link>/publication/regression-models-for-performance-ranking-of-configurable-systems/</link>
+      <pubDate>Sat, 23 Nov 2019 18:19:12 +0800</pubDate>
+      <guid>/publication/regression-models-for-performance-ranking-of-configurable-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Objective Configuration Sampling for Performance Ranking in Configurable Systems</title>
+      <link>/publication/multi-objective-configuration-sampling-for/</link>
+      <pubDate>Sat, 19 Oct 2019 18:19:12 +0800</pubDate>
+      <guid>/publication/multi-objective-configuration-sampling-for/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

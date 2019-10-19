@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jifeng Xuan | Academic</title>
+    <link>/authors/jifeng-xuan/</link>
+      <atom:link href="/authors/jifeng-xuan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jifeng Xuan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 23 Nov 2019 18:19:12 +0800</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Jifeng Xuan</title>
+      <link>/authors/jifeng-xuan/</link>
+    </image>
+    
+    <item>
+      <title>Regression Models for Performance Ranking of Configurable Systems: A Comparative Study</title>
+      <link>/publication/regression-models-for-performance-ranking-of-configurable-systems/</link>
+      <pubDate>Sat, 23 Nov 2019 18:19:12 +0800</pubDate>
+      <guid>/publication/regression-models-for-performance-ranking-of-configurable-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Objective Configuration Sampling for Performance Ranking in Configurable Systems</title>
+      <link>/publication/multi-objective-configuration-sampling-for/</link>
+      <pubDate>Sat, 19 Oct 2019 18:19:12 +0800</pubDate>
+      <guid>/publication/multi-objective-configuration-sampling-for/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multi-objective Optimization | Academic</title>
+    <link>/tags/multi-objective-optimization/</link>
+      <atom:link href="/tags/multi-objective-optimization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Multi-objective Optimization</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 19 Oct 2019 18:19:12 +0800</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Multi-objective Optimization</title>
+      <link>/tags/multi-objective-optimization/</link>
+    </image>
+    
+    <item>
+      <title>Multi-Objective Configuration Sampling for Performance Ranking in Configurable Systems</title>
+      <link>/publication/multi-objective-configuration-sampling-for/</link>
+      <pubDate>Sat, 19 Oct 2019 18:19:12 +0800</pubDate>
+      <guid>/publication/multi-objective-configuration-sampling-for/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

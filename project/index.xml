@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Academic</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>Heterogeneous Transfer Learning on Software Configuration</title>
+      <link>/project/heterogeneous-transfer-learning/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/project/heterogeneous-transfer-learning/</guid>
+      <description>&lt;p&gt;• Presented a novel algorithm to predict the configurations’ performance and rank the configurations of software systems when we have little labeled data in one software system (target) but have enough data in another irrelevant software system (source).&lt;/p&gt;
+
+&lt;p&gt;• This method is distinctive for it can be applied to any two configurable software systems even though they are from completely different fields and have different numbers of features.&lt;/p&gt;
+
+&lt;p&gt;• Conducted a large experiment on 208 transfering pairs of 25 software systems. The result shows a 75% average accuracy to successfully rank better configurations to the front than the baseline.&lt;/p&gt;
+
+&lt;p&gt;• The goal of this research is to reduce the measurement cost in the sampling process by using the labeled data we have alredy got, especially for those large software systems, which takes lots of resources and time in one measurement.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Refinement on Performance Ranking Models of Software Configuration</title>
+      <link>/project/refinement-on-performance-ranking-models-of-software-configuration/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/project/refinement-on-performance-ranking-models-of-software-configuration/</guid>
+      <description>&lt;p&gt;• Introduced a algorithm to learn the ranking rule from the labeled data. Proposed a common framework to refine the ranking of configurations based on the ranking rule we learned before and their performances we predicted through machine learning algorithm.&lt;/p&gt;
+
+&lt;p&gt;• Conducted a large experimental evaluation on 36 scenarios of 17 subject systems. The result shows over 30 scenarios can obtain better configurations after our refinement.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Comparative Study on Regression Models in Performance Ranking</title>
+      <link>/project/comparative-study/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/comparative-study/</guid>
+      <description>&lt;p&gt;• Conducted a comparative study on the common regression models used in performance ranking of software configuration research. The research is the first one that compares the regression models in terms of their ability to find good configurations and the measurement cost of sampling.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multi-Objective Configuration Sampling in Configurable Systems</title>
+      <link>/project/multi-objective/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/multi-objective/</guid>
+      <description>&lt;p&gt;• Proposed a sampling method, which uses multi-objective optimization to minimize the number of samples we need to measure while maximizing the ability to rank good configurations to the front according to the Pareto optimization. The research aims to balance the trade-off between the measurement cost and the ranking ability in the performance ranking problem.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wireless Printing Under the Internet of Things</title>
+      <link>/project/wireless-printing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/wireless-printing/</guid>
+      <description>&lt;p&gt;• Proposed a project that one can upload the file to the server and go to any printer connected to the server at any time to print what he/she needs. Presented an automatic scheduling algorithm to schedule the customers according to their distances from printers and queuing conditions.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

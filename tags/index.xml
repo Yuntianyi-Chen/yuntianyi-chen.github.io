@@ -5,12 +5,52 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 23 Nov 2019 18:19:12 +0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
+    
+    <item>
+      <title>Performance Ranking</title>
+      <link>/tags/performance-ranking/</link>
+      <pubDate>Sat, 23 Nov 2019 18:19:12 +0800</pubDate>
+      <guid>/tags/performance-ranking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regression Methods</title>
+      <link>/tags/regression-methods/</link>
+      <pubDate>Sat, 23 Nov 2019 18:19:12 +0800</pubDate>
+      <guid>/tags/regression-methods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sampling</title>
+      <link>/tags/sampling/</link>
+      <pubDate>Sat, 23 Nov 2019 18:19:12 +0800</pubDate>
+      <guid>/tags/sampling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Configurations</title>
+      <link>/tags/software-configurations/</link>
+      <pubDate>Sat, 23 Nov 2019 18:19:12 +0800</pubDate>
+      <guid>/tags/software-configurations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-objective Optimization</title>
+      <link>/tags/multi-objective-optimization/</link>
+      <pubDate>Sat, 19 Oct 2019 18:19:12 +0800</pubDate>
+      <guid>/tags/multi-objective-optimization/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

@@ -3,15 +3,122 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/authors/admin/</loc>
+    <loc>/publication_types/1/</loc>
+    <lastmod>2019-11-23T18:19:12+08:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
+    <lastmod>2019-11-23T18:19:12+08:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
+    <lastmod>2019-11-23T18:19:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jifeng-xuan/</loc>
+    <lastmod>2019-11-23T18:19:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/lulu-he/</loc>
+    <lastmod>2019-11-23T18:19:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/performance-ranking/</loc>
+    <lastmod>2019-11-23T18:19:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2019-11-23T18:19:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2019-11-23T18:19:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/regression-methods/</loc>
+    <lastmod>2019-11-23T18:19:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/regression-models-for-performance-ranking-of-configurable-systems/</loc>
+    <lastmod>2019-11-23T18:19:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/sampling/</loc>
+    <lastmod>2019-11-23T18:19:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/software-configurations/</loc>
+    <lastmod>2019-11-23T18:19:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-11-23T18:19:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/yongfeng-gu/</loc>
+    <lastmod>2019-11-23T18:19:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/yuntianyi-chen/</loc>
+    <lastmod>2019-11-23T18:19:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2019-11-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/sate-2019/</loc>
+    <lastmod>2019-11-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/multi-objective-configuration-sampling-for/</loc>
+    <lastmod>2019-10-19T18:19:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/multi-objective-optimization/</loc>
+    <lastmod>2019-10-19T18:19:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/xiangyang-jia/</loc>
+    <lastmod>2019-10-19T18:19:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/heterogeneous-transfer-learning/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/refinement-on-performance-ranking-models-of-software-configuration/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
   </url>
   
   <url>
@@ -19,23 +126,19 @@
   </url>
   
   <url>
+    <loc>/project/comparative-study/</loc>
+  </url>
+  
+  <url>
+    <loc>/project/multi-objective/</loc>
+  </url>
+  
+  <url>
     <loc>/post/</loc>
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
+    <loc>/project/wireless-printing/</loc>
   </url>
   
 </urlset>

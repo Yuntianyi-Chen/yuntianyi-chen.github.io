@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 23 Nov 2019 18:19:12 +0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,13 +13,51 @@
     </image>
     
     <item>
+      <title>Jifeng Xuan</title>
+      <link>/authors/jifeng-xuan/</link>
+      <pubDate>Sat, 23 Nov 2019 18:19:12 +0800</pubDate>
+      <guid>/authors/jifeng-xuan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lulu He</title>
+      <link>/authors/lulu-he/</link>
+      <pubDate>Sat, 23 Nov 2019 18:19:12 +0800</pubDate>
+      <guid>/authors/lulu-he/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yongfeng Gu</title>
+      <link>/authors/yongfeng-gu/</link>
+      <pubDate>Sat, 23 Nov 2019 18:19:12 +0800</pubDate>
+      <guid>/authors/yongfeng-gu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yuntianyi Chen</title>
+      <link>/authors/yuntianyi-chen/</link>
+      <pubDate>Sat, 23 Nov 2019 18:19:12 +0800</pubDate>
+      <guid>/authors/yuntianyi-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xiangyang Jia</title>
+      <link>/authors/xiangyang-jia/</link>
+      <pubDate>Sat, 19 Oct 2019 18:19:12 +0800</pubDate>
+      <guid>/authors/xiangyang-jia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title></title>
       <link>/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
+      <description>&lt;p&gt;Yuntianyi Chen is an undergraduate majoring in Computer Science and Technology at Wuhan University. His research interests include software configuration, transfer learning, evolutionary computation and defect prediction. He joined the Centre of Software Testing, Analysis and Reliability (CSTAR) since 2017 under the supervision of professor Jifeng Xuan.&lt;/p&gt;
 </description>
     </item>
     
